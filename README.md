@@ -26,6 +26,8 @@ The News App allows users to browse the latest news articles from various catego
 - Robust architecture following the MVVM pattern
 - Efficient data handling using Coroutines for asynchronous operations
 
+# App Demo - https://youtu.be/9jNHSme0STs
+
 ## Technologies Used
 
 - **Programming Language:** Kotlin
